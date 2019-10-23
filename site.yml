@@ -1,0 +1,3 @@
+- hosts: all
+  roles:
+     - { role: ansible-role-rhel8-ospp-master }
